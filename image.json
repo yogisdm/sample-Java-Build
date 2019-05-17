@@ -1,8 +1,8 @@
 {
     "variables": {
         "region":         "ap-south-1",
-                "aws_subnet_id": "subnet-0d073e6f90175113e",
-        "aws_vpc_id": "vpc-023ba5e6d4f9f34f8",
+                "aws_subnet_id": "subnet-061b3cc8692d0ad8e",
+        "aws_vpc_id": "vpc-0ff05aa62c74b34bc",
         "aws_ami_name": "uc-one-javaub-{{timestamp}}"
     },
     "builders": [
